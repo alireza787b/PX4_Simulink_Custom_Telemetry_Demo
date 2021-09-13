@@ -2,7 +2,7 @@
 Custom Telemetry over Serial with PX4 Autopilots Support Package for UAV Toolbox in Simulink
 
 Custom Telemetry over Serial with PX4 Autopilots Support Package for UAV Toolbox in Simulink 
-This is a demonstration video showing the steps to sample some analog signal, combine with other necessary data and send them through TELEM2 over Serial.
+This is a demonstration video showing the steps to sample some analog signal, combine with other necessary data and send them through TELEM1 over Serial.
 Steps:
 
 •Sample Angle of Attack and Sideslip Potentiometer using ADC Inputs
