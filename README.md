@@ -16,7 +16,8 @@ Steps:
 •Retrieve and decode the data using Simulink
 
 
-Youtube Tutorial:
+Youtube Tutorial:  https://youtu.be/DBdXkZD1OLA
+
 [![Youtube Tutorial](https://img.youtube.com/vi/DBdXkZD1OLA/0.jpg)](https://www.youtube.com/watch?v=DBdXkZD1OLA)
 
 
