@@ -17,7 +17,7 @@ Steps:
 
 
 Youtube Tutorial:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DBdXkZD1OLA/0.jpg)](https://www.youtube.com/watch?v=DBdXkZD1OLA)
+[![Youtube Tutorial](https://img.youtube.com/vi/DBdXkZD1OLA/0.jpg)](https://www.youtube.com/watch?v=DBdXkZD1OLA)
 
 
 [![View PX4 Custom  Sensor Serial Telemetry via Simulink  on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://nl.mathworks.com/matlabcentral/fileexchange/99144-px4-custom-sensor-serial-telemetry-via-simulink)
