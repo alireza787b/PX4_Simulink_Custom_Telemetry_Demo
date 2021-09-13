@@ -12,5 +12,8 @@ Steps:
 •Retrieve and decode the data using Simulink
 
 
+Youtube Tutorial:
+https://youtu.be/v3-z5RN4h8U
+
 
 [![View PX4 Custom  Sensor Serial Telemetry via Simulink  on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://nl.mathworks.com/matlabcentral/fileexchange/99144-px4-custom-sensor-serial-telemetry-via-simulink)
